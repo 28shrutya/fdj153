@@ -1,0 +1,7 @@
+public class hello world
+{
+public static void main()
+{
+system.out.println("hello")
+}
+}
